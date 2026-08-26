@@ -1,8 +1,15 @@
-+++
-date = '2026-08-26T13:25:31+08:00'
-draft = false
-title = '安装Hugo'
-+++
+﻿---
+title: 安装Hugo
+description: hugo new site
+date: 2026-08-26T13:25:31+08:00
+image: "https://tc.alcy.cc/tc/20260121/484894c480134bce4c83f776c588d1b5.webp"
+license: 
+comments: true
+draft: false
+build:
+    list: always    # Change to "never" to hide the page from the list
+---
+
 
 # 安装Hugo全过程
 
